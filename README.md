@@ -3,16 +3,6 @@
 ## Sujet Choisi: 
 Prédiction des performances des élèves
 
-## Réalise par:
-- Haddouche Sara
-- Malki Nawal
-- Tafellahte Salma
-- Hmamou Soukaina
-- Fatima zahra el houssni
-
-## Encadré par:
-- Mr Hajja 
-
 ## le lien vers le Dataset utilisé:
 [Students performance dataset](https://www.kaggle.com/datasets/bhavikjikadara/student-study-performance)
 
@@ -22,3 +12,12 @@ Prédiction des performances des élèves
 
 # Rapport:
 
+### Réalise par:
+- Haddouche Sara
+- Malki Nawal
+- Tafellahte Salma
+- Hmamou Soukaina
+- Fatima zahra el houssni
+
+### Encadré par:
+- Mr Hajja 
