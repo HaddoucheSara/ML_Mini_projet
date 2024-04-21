@@ -1,6 +1,7 @@
-# ML_Mini_projet
+# Machine Learning - Mini projet d’application
 
-# Sujet Choisi: 
+## Sujet Choisi: 
+Prédiction des performances des élèves
 
 ## Réalise par:
 - Haddouche Sara
@@ -9,13 +10,13 @@
 - Hmamou Soukaina
 - Fatima zahra el houssni
 
-# Encadré par:
+## Encadré par:
 - Mr Hajja 
 
-# le lien vers le Dataset utilisé:
+## le lien vers le Dataset utilisé:
 [Students performance dataset](https://www.kaggle.com/datasets/bhavikjikadara/student-study-performance)
 
-# les bibliothèques ML nécessaires:
+## les bibliothèques ML nécessaires:
 
 # Exigences :
 
