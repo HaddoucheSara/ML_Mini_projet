@@ -1,6 +1,4 @@
-# Machine Learning - Mini projet d’application
-
-### Sujet Choisi: Prédiction des performances des élèves
+# ML - Mini projet d’application "Prédiction des performances des élèves"
 
 ### Le lien vers le Dataset utilisé dans le projet : [Students performance dataset](https://www.kaggle.com/datasets/bhavikjikadara/student-study-performance)
 
