@@ -2,8 +2,8 @@
 
 ### Sujet Choisi: Prédiction des performances des élèves
 
-### Le lien vers le Dataset utilisé dans le projet :
-[Students performance dataset](https://www.kaggle.com/datasets/bhavikjikadara/student-study-performance)
+### Le lien vers le Dataset utilisé dans le projet : [Students performance dataset](https://www.kaggle.com/datasets/bhavikjikadara/student-study-performance)
+
 
 ### les bibliothèques ML nécessaires:
 
