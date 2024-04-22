@@ -7,7 +7,7 @@
 
 ### Exigences :
 
-### Réalise par:
+### Réalisé par:
 - Haddouche Sara
 - Malki Nawal
 - Tafellahte Salma
@@ -15,4 +15,8 @@
 - Fatima zahra el houssni
 
 ### Encadré par:
-- Mr Hajja 
+- Mr Hajja Zakaria
+
+### Le lien du rapport : https://docs.google.com/document/d/1Iy_BvPeS53dxKWXR0gXRtHDbVDf5Y1lHTbsehU3UIVU/edit
+
+
