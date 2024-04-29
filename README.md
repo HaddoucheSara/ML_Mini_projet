@@ -12,6 +12,7 @@
 - ***Scikit-learn*** : Bibliothèque d'apprentissage automatique en Python, offrant une large gamme d'outils pour l'apprentissage supervisé et non supervisé, ainsi que pour la préparation des données et l'évaluation des modèles.
 ### Exigences :
 
+<hr>
 ### Réalisé par:
 - Haddouche Sara
 - Malki Nawal
