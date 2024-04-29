@@ -2,8 +2,8 @@
 
 ### Le lien vers le Dataset utilisé dans le projet : [Students performance dataset](https://www.kaggle.com/datasets/bhavikjikadara/student-study-performance)
 
-### Le lien du rapport : [Rapport mini projet ML](https://docs.google.com/document/d/1Iy_BvPeS53dxKWXR0gXRtHDbVDf5Y1lHTbsehU3UIVU/edit)
-
+### Le lien vers le rapport : [Rapport mini projet ML](https://docs.google.com/document/d/1Iy_BvPeS53dxKWXR0gXRtHDbVDf5Y1lHTbsehU3UIVU/edit)
+<hr>
 
 ### les bibliothèques ML nécessaires:
 - ***NumPy*** : utilisée principalement pour effectuer des calculs numériques. Il fournit des structures de données puissantes, telles que des tableaux multidimensionnels (ndarrays), ainsi que des fonctions pour effectuer des opérations mathématiques sur ces tableaux.
