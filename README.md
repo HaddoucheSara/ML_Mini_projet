@@ -10,7 +10,6 @@
 - ***Pandas*** : utilisée pour la manipulation et l'analyse des données. Elle offre des structures de données flexibles et performantes, notamment les DataFrame, qui permettent de stocker et de manipuler des données tabulaires de manière intuitive.
 - ***Matplotlib*** : utilisée pour visualiser les données , permettant de créer une grande variété de graphiques et de figures de qualité publication. Elle offre une syntaxe similaire à celle de MATLAB, ce qui la rend facile à utiliser pour ceux qui sont familiers avec MATLAB.
 - ***Scikit-learn*** : Bibliothèque d'apprentissage automatique en Python, offrant une large gamme d'outils pour l'apprentissage supervisé et non supervisé, ainsi que pour la préparation des données et l'évaluation des modèles.
-### Exigences :
 
 <hr>
 
